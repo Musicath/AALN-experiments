@@ -1,0 +1,721 @@
+normalization,case,family,activation,teacher_width,teacher_id,tail_slope
+LayerNorm,affine_pre,PN with affine parameters,gaussian,4,0,-1.9996721807032334
+LayerNorm,affine_pre,PN with affine parameters,gaussian,4,1,-1.99972395460247
+LayerNorm,affine_pre,PN with affine parameters,gaussian,4,2,-1.9993954461605579
+LayerNorm,affine_pre,PN with affine parameters,gaussian,4,3,-1.9997818594765884
+LayerNorm,affine_pre,PN with affine parameters,gaussian,4,4,-1.9998573059987743
+LayerNorm,affine_pre,PN with affine parameters,gaussian,4,5,-1.9997262488397367
+LayerNorm,affine_pre,PN with affine parameters,gaussian,8,0,-1.999052507467131
+LayerNorm,affine_pre,PN with affine parameters,gaussian,8,1,-1.9996330870180445
+LayerNorm,affine_pre,PN with affine parameters,gaussian,8,2,-1.999092869242717
+LayerNorm,affine_pre,PN with affine parameters,gaussian,8,3,-1.998986275048049
+LayerNorm,affine_pre,PN with affine parameters,gaussian,8,4,-1.9987954902970324
+LayerNorm,affine_pre,PN with affine parameters,gaussian,8,5,-1.9996243106968636
+LayerNorm,affine_pre,PN with affine parameters,gaussian,16,0,-1.9963614815629966
+LayerNorm,affine_pre,PN with affine parameters,gaussian,16,1,-1.9981670429192857
+LayerNorm,affine_pre,PN with affine parameters,gaussian,16,2,-1.9998035054685765
+LayerNorm,affine_pre,PN with affine parameters,gaussian,16,3,-1.9989581062104822
+LayerNorm,affine_pre,PN with affine parameters,gaussian,16,4,-1.9946341888365722
+LayerNorm,affine_pre,PN with affine parameters,gaussian,16,5,-1.995893708459718
+LayerNorm,affine_pre,PN with affine parameters,gaussian,32,0,-1.9949325795382806
+LayerNorm,affine_pre,PN with affine parameters,gaussian,32,1,-1.992350497935911
+LayerNorm,affine_pre,PN with affine parameters,gaussian,32,2,-1.999044117546956
+LayerNorm,affine_pre,PN with affine parameters,gaussian,32,3,-1.9958802580065258
+LayerNorm,affine_pre,PN with affine parameters,gaussian,32,4,-1.9974753360156496
+LayerNorm,affine_pre,PN with affine parameters,gaussian,32,5,-1.9967352033366865
+LayerNorm,affine_pre,PN with affine parameters,sinc,4,0,-1.9991085907983328
+LayerNorm,affine_pre,PN with affine parameters,sinc,4,1,-1.9997534473746776
+LayerNorm,affine_pre,PN with affine parameters,sinc,4,2,-1.9993145896178126
+LayerNorm,affine_pre,PN with affine parameters,sinc,4,3,-1.9990594492530425
+LayerNorm,affine_pre,PN with affine parameters,sinc,4,4,-1.9993067230261488
+LayerNorm,affine_pre,PN with affine parameters,sinc,4,5,-1.9993616656708177
+LayerNorm,affine_pre,PN with affine parameters,sinc,8,0,-1.997753831989256
+LayerNorm,affine_pre,PN with affine parameters,sinc,8,1,-1.9985035029913059
+LayerNorm,affine_pre,PN with affine parameters,sinc,8,2,-1.9989486902507454
+LayerNorm,affine_pre,PN with affine parameters,sinc,8,3,-2.000000514474211
+LayerNorm,affine_pre,PN with affine parameters,sinc,8,4,-1.9976334034589172
+LayerNorm,affine_pre,PN with affine parameters,sinc,8,5,-1.9982312812352905
+LayerNorm,affine_pre,PN with affine parameters,sinc,16,0,-1.9930246796813114
+LayerNorm,affine_pre,PN with affine parameters,sinc,16,1,-1.9972282743678835
+LayerNorm,affine_pre,PN with affine parameters,sinc,16,2,-1.9992034066590687
+LayerNorm,affine_pre,PN with affine parameters,sinc,16,3,-1.9979356936269086
+LayerNorm,affine_pre,PN with affine parameters,sinc,16,4,-1.9921438408720564
+LayerNorm,affine_pre,PN with affine parameters,sinc,16,5,-1.9940055415051707
+LayerNorm,affine_pre,PN with affine parameters,sinc,32,0,-1.9949250760954347
+LayerNorm,affine_pre,PN with affine parameters,sinc,32,1,-1.9934935471503927
+LayerNorm,affine_pre,PN with affine parameters,sinc,32,2,-1.9950359157713362
+LayerNorm,affine_pre,PN with affine parameters,sinc,32,3,-1.9936523341910672
+LayerNorm,affine_pre,PN with affine parameters,sinc,32,4,-1.9922706583635361
+LayerNorm,affine_pre,PN with affine parameters,sinc,32,5,-1.9917684137311484
+LayerNorm,affine_pre,PN with affine parameters,tanh,4,0,-1.9997101726913729
+LayerNorm,affine_pre,PN with affine parameters,tanh,4,1,-1.999776064923653
+LayerNorm,affine_pre,PN with affine parameters,tanh,4,2,-1.9994541538345352
+LayerNorm,affine_pre,PN with affine parameters,tanh,4,3,-1.999592226788983
+LayerNorm,affine_pre,PN with affine parameters,tanh,4,4,-1.999141783177685
+LayerNorm,affine_pre,PN with affine parameters,tanh,4,5,-1.999646157559446
+LayerNorm,affine_pre,PN with affine parameters,tanh,8,0,-1.9996593685365847
+LayerNorm,affine_pre,PN with affine parameters,tanh,8,1,-1.999511321455057
+LayerNorm,affine_pre,PN with affine parameters,tanh,8,2,-1.999258313646875
+LayerNorm,affine_pre,PN with affine parameters,tanh,8,3,-1.999429000829089
+LayerNorm,affine_pre,PN with affine parameters,tanh,8,4,-1.999107349794989
+LayerNorm,affine_pre,PN with affine parameters,tanh,8,5,-1.9985609647528773
+LayerNorm,affine_pre,PN with affine parameters,tanh,16,0,-1.997803625524068
+LayerNorm,affine_pre,PN with affine parameters,tanh,16,1,-1.9988201439193667
+LayerNorm,affine_pre,PN with affine parameters,tanh,16,2,-1.999141195080471
+LayerNorm,affine_pre,PN with affine parameters,tanh,16,3,-1.9989989492115925
+LayerNorm,affine_pre,PN with affine parameters,tanh,16,4,-1.9978322366069006
+LayerNorm,affine_pre,PN with affine parameters,tanh,16,5,-1.998736030600587
+LayerNorm,affine_pre,PN with affine parameters,tanh,32,0,-1.9976221535370096
+LayerNorm,affine_pre,PN with affine parameters,tanh,32,1,-1.9949712675811204
+LayerNorm,affine_pre,PN with affine parameters,tanh,32,2,-1.9948495253301863
+LayerNorm,affine_pre,PN with affine parameters,tanh,32,3,-1.9970521165059598
+LayerNorm,affine_pre,PN with affine parameters,tanh,32,4,-1.9984185612780434
+LayerNorm,affine_pre,PN with affine parameters,tanh,32,5,-1.9978343136910004
+LayerNorm,general_pre,"PN, general",gaussian,4,0,-0.9852869541110973
+LayerNorm,general_pre,"PN, general",gaussian,4,1,-0.9974072013022234
+LayerNorm,general_pre,"PN, general",gaussian,4,2,-0.9860561017914197
+LayerNorm,general_pre,"PN, general",gaussian,4,3,-0.9799742299688496
+LayerNorm,general_pre,"PN, general",gaussian,4,4,-0.990061957680918
+LayerNorm,general_pre,"PN, general",gaussian,4,5,-0.979890889824198
+LayerNorm,general_pre,"PN, general",gaussian,8,0,-0.9635786100042283
+LayerNorm,general_pre,"PN, general",gaussian,8,1,-0.9798622628945214
+LayerNorm,general_pre,"PN, general",gaussian,8,2,-0.9594751283291183
+LayerNorm,general_pre,"PN, general",gaussian,8,3,-0.9527079688652155
+LayerNorm,general_pre,"PN, general",gaussian,8,4,-0.9605495658583219
+LayerNorm,general_pre,"PN, general",gaussian,8,5,-0.9789479537328309
+LayerNorm,general_pre,"PN, general",gaussian,16,0,-0.9179661699911043
+LayerNorm,general_pre,"PN, general",gaussian,16,1,-0.9688170150371485
+LayerNorm,general_pre,"PN, general",gaussian,16,2,-0.9690703199168015
+LayerNorm,general_pre,"PN, general",gaussian,16,3,-0.9551999741115094
+LayerNorm,general_pre,"PN, general",gaussian,16,4,-0.8934236635494603
+LayerNorm,general_pre,"PN, general",gaussian,16,5,-0.8879511409791715
+LayerNorm,general_pre,"PN, general",gaussian,32,0,-0.848041229324779
+LayerNorm,general_pre,"PN, general",gaussian,32,1,-0.8348110727388209
+LayerNorm,general_pre,"PN, general",gaussian,32,2,-0.9539887705334459
+LayerNorm,general_pre,"PN, general",gaussian,32,3,-0.9595538661655716
+LayerNorm,general_pre,"PN, general",gaussian,32,4,-0.8640450308298314
+LayerNorm,general_pre,"PN, general",gaussian,32,5,-0.9112220246793055
+LayerNorm,general_pre,"PN, general",sinc,4,0,-0.9763621043060831
+LayerNorm,general_pre,"PN, general",sinc,4,1,-0.9993341166850739
+LayerNorm,general_pre,"PN, general",sinc,4,2,-0.9774727593426188
+LayerNorm,general_pre,"PN, general",sinc,4,3,-0.9666967933457014
+LayerNorm,general_pre,"PN, general",sinc,4,4,-0.9672981948960707
+LayerNorm,general_pre,"PN, general",sinc,4,5,-0.9761038526475715
+LayerNorm,general_pre,"PN, general",sinc,8,0,-0.9501404011129289
+LayerNorm,general_pre,"PN, general",sinc,8,1,-0.9712453563178267
+LayerNorm,general_pre,"PN, general",sinc,8,2,-0.9546230511213415
+LayerNorm,general_pre,"PN, general",sinc,8,3,-0.9682191125285139
+LayerNorm,general_pre,"PN, general",sinc,8,4,-0.9478144315806212
+LayerNorm,general_pre,"PN, general",sinc,8,5,-0.9459073785526397
+LayerNorm,general_pre,"PN, general",sinc,16,0,-0.9037728196055904
+LayerNorm,general_pre,"PN, general",sinc,16,1,-0.9208433405731664
+LayerNorm,general_pre,"PN, general",sinc,16,2,-0.9743417300242317
+LayerNorm,general_pre,"PN, general",sinc,16,3,-0.9714513240657519
+LayerNorm,general_pre,"PN, general",sinc,16,4,-0.8840784587070804
+LayerNorm,general_pre,"PN, general",sinc,16,5,-0.8677506196540015
+LayerNorm,general_pre,"PN, general",sinc,32,0,-0.8636371755109608
+LayerNorm,general_pre,"PN, general",sinc,32,1,-0.833782796800819
+LayerNorm,general_pre,"PN, general",sinc,32,2,-0.8609172506338547
+LayerNorm,general_pre,"PN, general",sinc,32,3,-0.9672579695185582
+LayerNorm,general_pre,"PN, general",sinc,32,4,-0.811287164474725
+LayerNorm,general_pre,"PN, general",sinc,32,5,-0.819236665917999
+LayerNorm,general_pre,"PN, general",tanh,4,0,-0.9876694010438883
+LayerNorm,general_pre,"PN, general",tanh,4,1,-0.9856079220761105
+LayerNorm,general_pre,"PN, general",tanh,4,2,-0.9855271009939489
+LayerNorm,general_pre,"PN, general",tanh,4,3,-0.9887562552981625
+LayerNorm,general_pre,"PN, general",tanh,4,4,-0.9834424869440791
+LayerNorm,general_pre,"PN, general",tanh,4,5,-0.9832697482122559
+LayerNorm,general_pre,"PN, general",tanh,8,0,-0.9706156196309107
+LayerNorm,general_pre,"PN, general",tanh,8,1,-0.963237346477211
+LayerNorm,general_pre,"PN, general",tanh,8,2,-0.9687323396186246
+LayerNorm,general_pre,"PN, general",tanh,8,3,-0.9775279665075005
+LayerNorm,general_pre,"PN, general",tanh,8,4,-0.9725649671326414
+LayerNorm,general_pre,"PN, general",tanh,8,5,-0.9675449300486251
+LayerNorm,general_pre,"PN, general",tanh,16,0,-0.9426883018219212
+LayerNorm,general_pre,"PN, general",tanh,16,1,-0.935293476960714
+LayerNorm,general_pre,"PN, general",tanh,16,2,-0.9772721639805498
+LayerNorm,general_pre,"PN, general",tanh,16,3,-0.9637933584448708
+LayerNorm,general_pre,"PN, general",tanh,16,4,-0.9387847164884192
+LayerNorm,general_pre,"PN, general",tanh,16,5,-0.9373014316999634
+LayerNorm,general_pre,"PN, general",tanh,32,0,-0.8880213549682002
+LayerNorm,general_pre,"PN, general",tanh,32,1,-0.8857715380360456
+LayerNorm,general_pre,"PN, general",tanh,32,2,-0.9308765751105794
+LayerNorm,general_pre,"PN, general",tanh,32,3,-0.9058294486839086
+LayerNorm,general_pre,"PN, general",tanh,32,4,-0.8896008762561224
+LayerNorm,general_pre,"PN, general",tanh,32,5,-0.9443260838652507
+LayerNorm,homogeneous_pre,"PN, homogeneous",absolute,4,0,-1.9992748551802089
+LayerNorm,homogeneous_pre,"PN, homogeneous",absolute,4,1,-1.9997007961796522
+LayerNorm,homogeneous_pre,"PN, homogeneous",absolute,4,2,-1.999426505908956
+LayerNorm,homogeneous_pre,"PN, homogeneous",absolute,4,3,-1.9991627451823724
+LayerNorm,homogeneous_pre,"PN, homogeneous",absolute,4,4,-1.9993019118357969
+LayerNorm,homogeneous_pre,"PN, homogeneous",absolute,4,5,-1.9994612844378856
+LayerNorm,homogeneous_pre,"PN, homogeneous",absolute,8,0,-1.998153654100772
+LayerNorm,homogeneous_pre,"PN, homogeneous",absolute,8,1,-1.9985711493259148
+LayerNorm,homogeneous_pre,"PN, homogeneous",absolute,8,2,-1.9990464501542042
+LayerNorm,homogeneous_pre,"PN, homogeneous",absolute,8,3,-1.9986382539664265
+LayerNorm,homogeneous_pre,"PN, homogeneous",absolute,8,4,-1.99794469451511
+LayerNorm,homogeneous_pre,"PN, homogeneous",absolute,8,5,-1.9984273066781517
+LayerNorm,homogeneous_pre,"PN, homogeneous",absolute,16,0,-1.9933815225860105
+LayerNorm,homogeneous_pre,"PN, homogeneous",absolute,16,1,-1.9972291189258389
+LayerNorm,homogeneous_pre,"PN, homogeneous",absolute,16,2,-1.998841964685015
+LayerNorm,homogeneous_pre,"PN, homogeneous",absolute,16,3,-1.9983991853796912
+LayerNorm,homogeneous_pre,"PN, homogeneous",absolute,16,4,-1.9924028931649078
+LayerNorm,homogeneous_pre,"PN, homogeneous",absolute,16,5,-1.9971218665785637
+LayerNorm,homogeneous_pre,"PN, homogeneous",absolute,32,0,-1.9953087301398922
+LayerNorm,homogeneous_pre,"PN, homogeneous",absolute,32,1,-1.9916013594164814
+LayerNorm,homogeneous_pre,"PN, homogeneous",absolute,32,2,-1.9948002451575526
+LayerNorm,homogeneous_pre,"PN, homogeneous",absolute,32,3,-1.9940486764740497
+LayerNorm,homogeneous_pre,"PN, homogeneous",absolute,32,4,-1.9944544549204628
+LayerNorm,homogeneous_pre,"PN, homogeneous",absolute,32,5,-1.9916553184383115
+LayerNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,4,0,-1.9997274608375644
+LayerNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,4,1,-1.9997007959736526
+LayerNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,4,2,-1.9991929333186937
+LayerNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,4,3,-1.9991627452227339
+LayerNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,4,4,-1.9993019115618866
+LayerNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,4,5,-1.9994612849589892
+LayerNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,8,0,-1.9992931377460812
+LayerNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,8,1,-1.9985711486101687
+LayerNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,8,2,-1.9990464501459668
+LayerNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,8,3,-1.9986382545895252
+LayerNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,8,4,-1.9979446944689614
+LayerNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,8,5,-1.9984273063669407
+LayerNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,16,0,-1.9933815225772225
+LayerNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,16,1,-1.9972291189350926
+LayerNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,16,2,-1.9972550395744122
+LayerNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,16,3,-1.9980385377330774
+LayerNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,16,4,-1.99240289323592
+LayerNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,16,5,-1.9971218665531538
+LayerNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,32,0,-1.9957369939096814
+LayerNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,32,1,-1.9916013594104918
+LayerNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,32,2,-1.995843947726365
+LayerNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,32,3,-1.99404867648004
+LayerNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,32,4,-1.9944544548480967
+LayerNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,32,5,-1.9916553184369263
+LayerNorm,homogeneous_pre,"PN, homogeneous",relu,4,0,-1.999727460846318
+LayerNorm,homogeneous_pre,"PN, homogeneous",relu,4,1,-1.9997007960077111
+LayerNorm,homogeneous_pre,"PN, homogeneous",relu,4,2,-1.9991929333539298
+LayerNorm,homogeneous_pre,"PN, homogeneous",relu,4,3,-1.999162745233637
+LayerNorm,homogeneous_pre,"PN, homogeneous",relu,4,4,-1.9993019115546553
+LayerNorm,homogeneous_pre,"PN, homogeneous",relu,4,5,-1.9994612849624347
+LayerNorm,homogeneous_pre,"PN, homogeneous",relu,8,0,-1.9992931377959537
+LayerNorm,homogeneous_pre,"PN, homogeneous",relu,8,1,-1.9985711486422753
+LayerNorm,homogeneous_pre,"PN, homogeneous",relu,8,2,-1.9990464501372864
+LayerNorm,homogeneous_pre,"PN, homogeneous",relu,8,3,-1.998638254587357
+LayerNorm,homogeneous_pre,"PN, homogeneous",relu,8,4,-1.9979446944722303
+LayerNorm,homogeneous_pre,"PN, homogeneous",relu,8,5,-1.998427306373117
+LayerNorm,homogeneous_pre,"PN, homogeneous",relu,16,0,-1.9933815225771658
+LayerNorm,homogeneous_pre,"PN, homogeneous",relu,16,1,-1.9972291189402434
+LayerNorm,homogeneous_pre,"PN, homogeneous",relu,16,2,-1.9972550395677438
+LayerNorm,homogeneous_pre,"PN, homogeneous",relu,16,3,-1.998038537742384
+LayerNorm,homogeneous_pre,"PN, homogeneous",relu,16,4,-1.99240289323054
+LayerNorm,homogeneous_pre,"PN, homogeneous",relu,16,5,-1.9971218665657497
+LayerNorm,homogeneous_pre,"PN, homogeneous",relu,32,0,-1.9957369939110328
+LayerNorm,homogeneous_pre,"PN, homogeneous",relu,32,1,-1.9916013594124573
+LayerNorm,homogeneous_pre,"PN, homogeneous",relu,32,2,-1.9958439477226722
+LayerNorm,homogeneous_pre,"PN, homogeneous",relu,32,3,-1.9940486764808385
+LayerNorm,homogeneous_pre,"PN, homogeneous",relu,32,4,-1.994454454855337
+LayerNorm,homogeneous_pre,"PN, homogeneous",relu,32,5,-1.9916553184388062
+LayerNorm,post_general,"AN, bounded/general",gaussian,4,0,-0.963844744318556
+LayerNorm,post_general,"AN, bounded/general",gaussian,4,1,-0.9633113498204545
+LayerNorm,post_general,"AN, bounded/general",gaussian,4,2,-0.9565836478455655
+LayerNorm,post_general,"AN, bounded/general",gaussian,4,3,-0.9597455454661468
+LayerNorm,post_general,"AN, bounded/general",gaussian,4,4,-0.9600718424773118
+LayerNorm,post_general,"AN, bounded/general",gaussian,4,5,-0.9625907810567238
+LayerNorm,post_general,"AN, bounded/general",gaussian,8,0,-0.9312062188702586
+LayerNorm,post_general,"AN, bounded/general",gaussian,8,1,-0.9136539948070185
+LayerNorm,post_general,"AN, bounded/general",gaussian,8,2,-0.9239070458742228
+LayerNorm,post_general,"AN, bounded/general",gaussian,8,3,-0.9282508954795018
+LayerNorm,post_general,"AN, bounded/general",gaussian,8,4,-0.9194086726111023
+LayerNorm,post_general,"AN, bounded/general",gaussian,8,5,-0.916445537407443
+LayerNorm,post_general,"AN, bounded/general",gaussian,16,0,-0.8649604263542852
+LayerNorm,post_general,"AN, bounded/general",gaussian,16,1,-0.8582746228855921
+LayerNorm,post_general,"AN, bounded/general",gaussian,16,2,-0.8642399625044417
+LayerNorm,post_general,"AN, bounded/general",gaussian,16,3,-0.8414379575271898
+LayerNorm,post_general,"AN, bounded/general",gaussian,16,4,-0.8567162802955521
+LayerNorm,post_general,"AN, bounded/general",gaussian,16,5,-0.8638751604929353
+LayerNorm,post_general,"AN, bounded/general",gaussian,32,0,-0.7751798610239388
+LayerNorm,post_general,"AN, bounded/general",gaussian,32,1,-0.7733123543094826
+LayerNorm,post_general,"AN, bounded/general",gaussian,32,2,-0.7838637823953565
+LayerNorm,post_general,"AN, bounded/general",gaussian,32,3,-0.7781882430522445
+LayerNorm,post_general,"AN, bounded/general",gaussian,32,4,-0.7612785015369986
+LayerNorm,post_general,"AN, bounded/general",gaussian,32,5,-0.7596451905509082
+LayerNorm,post_general,"AN, bounded/general",sinc,4,0,-0.9765409740527711
+LayerNorm,post_general,"AN, bounded/general",sinc,4,1,-0.9714345781091254
+LayerNorm,post_general,"AN, bounded/general",sinc,4,2,-0.9725237736864748
+LayerNorm,post_general,"AN, bounded/general",sinc,4,3,-0.9750830791739414
+LayerNorm,post_general,"AN, bounded/general",sinc,4,4,-0.964893289230331
+LayerNorm,post_general,"AN, bounded/general",sinc,4,5,-0.9725328183031782
+LayerNorm,post_general,"AN, bounded/general",sinc,8,0,-0.9495397469709722
+LayerNorm,post_general,"AN, bounded/general",sinc,8,1,-0.9337705237765936
+LayerNorm,post_general,"AN, bounded/general",sinc,8,2,-0.9370795100186873
+LayerNorm,post_general,"AN, bounded/general",sinc,8,3,-0.942631000984949
+LayerNorm,post_general,"AN, bounded/general",sinc,8,4,-0.9460468922583484
+LayerNorm,post_general,"AN, bounded/general",sinc,8,5,-0.9444638520629326
+LayerNorm,post_general,"AN, bounded/general",sinc,16,0,-0.8798044140465127
+LayerNorm,post_general,"AN, bounded/general",sinc,16,1,-0.8733360055078384
+LayerNorm,post_general,"AN, bounded/general",sinc,16,2,-0.8877864738211771
+LayerNorm,post_general,"AN, bounded/general",sinc,16,3,-0.8615696107413026
+LayerNorm,post_general,"AN, bounded/general",sinc,16,4,-0.8652946267319088
+LayerNorm,post_general,"AN, bounded/general",sinc,16,5,-0.8615732643516001
+LayerNorm,post_general,"AN, bounded/general",sinc,32,0,-0.8067415430543224
+LayerNorm,post_general,"AN, bounded/general",sinc,32,1,-0.7927638732945631
+LayerNorm,post_general,"AN, bounded/general",sinc,32,2,-0.7913654596549009
+LayerNorm,post_general,"AN, bounded/general",sinc,32,3,-0.775309481017069
+LayerNorm,post_general,"AN, bounded/general",sinc,32,4,-0.7755942830222088
+LayerNorm,post_general,"AN, bounded/general",sinc,32,5,-0.7739082485226749
+LayerNorm,post_general,"AN, bounded/general",tanh,4,0,-0.9795069053680937
+LayerNorm,post_general,"AN, bounded/general",tanh,4,1,-0.9917169660507824
+LayerNorm,post_general,"AN, bounded/general",tanh,4,2,-0.9812125532396779
+LayerNorm,post_general,"AN, bounded/general",tanh,4,3,-0.9842943315907425
+LayerNorm,post_general,"AN, bounded/general",tanh,4,4,-0.9922456393530311
+LayerNorm,post_general,"AN, bounded/general",tanh,4,5,-0.9888775057407624
+LayerNorm,post_general,"AN, bounded/general",tanh,8,0,-0.9640127232323427
+LayerNorm,post_general,"AN, bounded/general",tanh,8,1,-0.9844162075209887
+LayerNorm,post_general,"AN, bounded/general",tanh,8,2,-0.9830873685921837
+LayerNorm,post_general,"AN, bounded/general",tanh,8,3,-0.9763277437519311
+LayerNorm,post_general,"AN, bounded/general",tanh,8,4,-0.9758599946681547
+LayerNorm,post_general,"AN, bounded/general",tanh,8,5,-0.9713577093333906
+LayerNorm,post_general,"AN, bounded/general",tanh,16,0,-0.9557173108799312
+LayerNorm,post_general,"AN, bounded/general",tanh,16,1,-0.9672212823275985
+LayerNorm,post_general,"AN, bounded/general",tanh,16,2,-0.9609055755008198
+LayerNorm,post_general,"AN, bounded/general",tanh,16,3,-0.9686643657860452
+LayerNorm,post_general,"AN, bounded/general",tanh,16,4,-0.9405300124973174
+LayerNorm,post_general,"AN, bounded/general",tanh,16,5,-0.9587350694157396
+LayerNorm,post_general,"AN, bounded/general",tanh,32,0,-0.9256555267752408
+LayerNorm,post_general,"AN, bounded/general",tanh,32,1,-0.929333431485666
+LayerNorm,post_general,"AN, bounded/general",tanh,32,2,-0.9302765977137047
+LayerNorm,post_general,"AN, bounded/general",tanh,32,3,-0.9382853589002765
+LayerNorm,post_general,"AN, bounded/general",tanh,32,4,-0.9391585688566321
+LayerNorm,post_general,"AN, bounded/general",tanh,32,5,-0.9200746303660061
+LayerNorm,post_unbounded,"AN, unbounded",exponential,4,0,-0.9850031080900131
+LayerNorm,post_unbounded,"AN, unbounded",exponential,4,1,-0.9877258131938519
+LayerNorm,post_unbounded,"AN, unbounded",exponential,4,2,-0.9768324355629426
+LayerNorm,post_unbounded,"AN, unbounded",exponential,4,3,-0.9315925081390373
+LayerNorm,post_unbounded,"AN, unbounded",exponential,4,4,-0.8855863909037288
+LayerNorm,post_unbounded,"AN, unbounded",exponential,4,5,-0.9584854387046606
+LayerNorm,post_unbounded,"AN, unbounded",exponential,8,0,-0.944920511900966
+LayerNorm,post_unbounded,"AN, unbounded",exponential,8,1,-0.9893845196536121
+LayerNorm,post_unbounded,"AN, unbounded",exponential,8,2,-0.9025087728829814
+LayerNorm,post_unbounded,"AN, unbounded",exponential,8,3,-0.7110772349416633
+LayerNorm,post_unbounded,"AN, unbounded",exponential,8,4,-0.9227521621554096
+LayerNorm,post_unbounded,"AN, unbounded",exponential,8,5,-0.9229940587435219
+LayerNorm,post_unbounded,"AN, unbounded",exponential,16,0,-0.7421701334212456
+LayerNorm,post_unbounded,"AN, unbounded",exponential,16,1,-0.8210235308078473
+LayerNorm,post_unbounded,"AN, unbounded",exponential,16,2,-0.7957540109185538
+LayerNorm,post_unbounded,"AN, unbounded",exponential,16,3,-0.9083662689042501
+LayerNorm,post_unbounded,"AN, unbounded",exponential,16,4,-0.8404215979873279
+LayerNorm,post_unbounded,"AN, unbounded",exponential,16,5,-1.2708598339914536
+LayerNorm,post_unbounded,"AN, unbounded",exponential,32,0,-0.8348468943554769
+LayerNorm,post_unbounded,"AN, unbounded",exponential,32,1,-1.3305369296809513
+LayerNorm,post_unbounded,"AN, unbounded",exponential,32,2,-0.964503297749988
+LayerNorm,post_unbounded,"AN, unbounded",exponential,32,3,-0.9473547689873723
+LayerNorm,post_unbounded,"AN, unbounded",exponential,32,4,-1.2239687281492
+LayerNorm,post_unbounded,"AN, unbounded",exponential,32,5,-1.1771981715649091
+LayerNorm,post_unbounded,"AN, unbounded",relu,4,0,-0.9912584440136663
+LayerNorm,post_unbounded,"AN, unbounded",relu,4,1,-0.9889845716031305
+LayerNorm,post_unbounded,"AN, unbounded",relu,4,2,-0.9913689787187198
+LayerNorm,post_unbounded,"AN, unbounded",relu,4,3,-0.9800892036049095
+LayerNorm,post_unbounded,"AN, unbounded",relu,4,4,-0.972710505444328
+LayerNorm,post_unbounded,"AN, unbounded",relu,4,5,-0.9855944558799377
+LayerNorm,post_unbounded,"AN, unbounded",relu,8,0,-0.9758993547187447
+LayerNorm,post_unbounded,"AN, unbounded",relu,8,1,-0.9871998222755235
+LayerNorm,post_unbounded,"AN, unbounded",relu,8,2,-0.9723637340889244
+LayerNorm,post_unbounded,"AN, unbounded",relu,8,3,-0.9569690153973242
+LayerNorm,post_unbounded,"AN, unbounded",relu,8,4,-0.9740972702501671
+LayerNorm,post_unbounded,"AN, unbounded",relu,8,5,-0.9657165715731998
+LayerNorm,post_unbounded,"AN, unbounded",relu,16,0,-0.9496127302636667
+LayerNorm,post_unbounded,"AN, unbounded",relu,16,1,-0.9455887959570208
+LayerNorm,post_unbounded,"AN, unbounded",relu,16,2,-0.9432615044225071
+LayerNorm,post_unbounded,"AN, unbounded",relu,16,3,-0.931905124618913
+LayerNorm,post_unbounded,"AN, unbounded",relu,16,4,-0.9098616815263506
+LayerNorm,post_unbounded,"AN, unbounded",relu,16,5,-0.8949586040852427
+LayerNorm,post_unbounded,"AN, unbounded",relu,32,0,-0.8573617498258325
+LayerNorm,post_unbounded,"AN, unbounded",relu,32,1,-0.6613375490945248
+LayerNorm,post_unbounded,"AN, unbounded",relu,32,2,-0.6996743444809699
+LayerNorm,post_unbounded,"AN, unbounded",relu,32,3,-0.7245638341297671
+LayerNorm,post_unbounded,"AN, unbounded",relu,32,4,-0.7673799965194817
+LayerNorm,post_unbounded,"AN, unbounded",relu,32,5,-0.7955282466650431
+LayerNorm,post_unbounded,"AN, unbounded",x_sin_x,4,0,-1.0010320282774487
+LayerNorm,post_unbounded,"AN, unbounded",x_sin_x,4,1,-0.9951894665562866
+LayerNorm,post_unbounded,"AN, unbounded",x_sin_x,4,2,-0.9867136499940823
+LayerNorm,post_unbounded,"AN, unbounded",x_sin_x,4,3,-0.9971724490329893
+LayerNorm,post_unbounded,"AN, unbounded",x_sin_x,4,4,-0.976417624233914
+LayerNorm,post_unbounded,"AN, unbounded",x_sin_x,4,5,-0.9891039684133739
+LayerNorm,post_unbounded,"AN, unbounded",x_sin_x,8,0,-0.9918867356801806
+LayerNorm,post_unbounded,"AN, unbounded",x_sin_x,8,1,-0.9849995411959572
+LayerNorm,post_unbounded,"AN, unbounded",x_sin_x,8,2,-0.982610149567176
+LayerNorm,post_unbounded,"AN, unbounded",x_sin_x,8,3,-0.9883352030056503
+LayerNorm,post_unbounded,"AN, unbounded",x_sin_x,8,4,-0.9832529165117574
+LayerNorm,post_unbounded,"AN, unbounded",x_sin_x,8,5,-0.9846051825258171
+LayerNorm,post_unbounded,"AN, unbounded",x_sin_x,16,0,-0.9743951348857941
+LayerNorm,post_unbounded,"AN, unbounded",x_sin_x,16,1,-0.9570789301101478
+LayerNorm,post_unbounded,"AN, unbounded",x_sin_x,16,2,-0.9635101990215067
+LayerNorm,post_unbounded,"AN, unbounded",x_sin_x,16,3,-0.9631162382512977
+LayerNorm,post_unbounded,"AN, unbounded",x_sin_x,16,4,-0.9610742602756502
+LayerNorm,post_unbounded,"AN, unbounded",x_sin_x,16,5,-0.9630861423990265
+LayerNorm,post_unbounded,"AN, unbounded",x_sin_x,32,0,-0.9333841285747903
+LayerNorm,post_unbounded,"AN, unbounded",x_sin_x,32,1,-0.9099900351522126
+LayerNorm,post_unbounded,"AN, unbounded",x_sin_x,32,2,-0.9001465826822805
+LayerNorm,post_unbounded,"AN, unbounded",x_sin_x,32,3,-0.8854743653426586
+LayerNorm,post_unbounded,"AN, unbounded",x_sin_x,32,4,-0.7927620585174212
+LayerNorm,post_unbounded,"AN, unbounded",x_sin_x,32,5,-0.9146808081884977
+RMSNorm,affine_pre,PN with affine parameters,gaussian,4,0,-1.9995744754251839
+RMSNorm,affine_pre,PN with affine parameters,gaussian,4,1,-1.9994513534963418
+RMSNorm,affine_pre,PN with affine parameters,gaussian,4,2,-1.9994201958204365
+RMSNorm,affine_pre,PN with affine parameters,gaussian,4,3,-1.99956255773901
+RMSNorm,affine_pre,PN with affine parameters,gaussian,4,4,-1.9997489416231335
+RMSNorm,affine_pre,PN with affine parameters,gaussian,4,5,-1.999506027009655
+RMSNorm,affine_pre,PN with affine parameters,gaussian,8,0,-1.999209268319935
+RMSNorm,affine_pre,PN with affine parameters,gaussian,8,1,-1.999516728052338
+RMSNorm,affine_pre,PN with affine parameters,gaussian,8,2,-1.9984169727797543
+RMSNorm,affine_pre,PN with affine parameters,gaussian,8,3,-1.9981983758090434
+RMSNorm,affine_pre,PN with affine parameters,gaussian,8,4,-1.9996798217401535
+RMSNorm,affine_pre,PN with affine parameters,gaussian,8,5,-1.9994651183875933
+RMSNorm,affine_pre,PN with affine parameters,gaussian,16,0,-1.9960488350545047
+RMSNorm,affine_pre,PN with affine parameters,gaussian,16,1,-1.9978638407116842
+RMSNorm,affine_pre,PN with affine parameters,gaussian,16,2,-1.999814924224174
+RMSNorm,affine_pre,PN with affine parameters,gaussian,16,3,-1.998774581666498
+RMSNorm,affine_pre,PN with affine parameters,gaussian,16,4,-1.9968628934861783
+RMSNorm,affine_pre,PN with affine parameters,gaussian,16,5,-1.993600654744603
+RMSNorm,affine_pre,PN with affine parameters,gaussian,32,0,-1.9907421296080652
+RMSNorm,affine_pre,PN with affine parameters,gaussian,32,1,-1.989899775096053
+RMSNorm,affine_pre,PN with affine parameters,gaussian,32,2,-1.9981410249200637
+RMSNorm,affine_pre,PN with affine parameters,gaussian,32,3,-1.993805589348786
+RMSNorm,affine_pre,PN with affine parameters,gaussian,32,4,-1.9950478361599358
+RMSNorm,affine_pre,PN with affine parameters,gaussian,32,5,-1.9944094924577551
+RMSNorm,affine_pre,PN with affine parameters,sinc,4,0,-1.9988436952660822
+RMSNorm,affine_pre,PN with affine parameters,sinc,4,1,-1.9992409399609892
+RMSNorm,affine_pre,PN with affine parameters,sinc,4,2,-1.999323656370968
+RMSNorm,affine_pre,PN with affine parameters,sinc,4,3,-1.9981222080030805
+RMSNorm,affine_pre,PN with affine parameters,sinc,4,4,-1.9991269922976118
+RMSNorm,affine_pre,PN with affine parameters,sinc,4,5,-1.9988486001914156
+RMSNorm,affine_pre,PN with affine parameters,sinc,8,0,-1.998124399993447
+RMSNorm,affine_pre,PN with affine parameters,sinc,8,1,-1.9980374365005247
+RMSNorm,affine_pre,PN with affine parameters,sinc,8,2,-1.998586150216171
+RMSNorm,affine_pre,PN with affine parameters,sinc,8,3,-1.9999868080923366
+RMSNorm,affine_pre,PN with affine parameters,sinc,8,4,-1.998457946315393
+RMSNorm,affine_pre,PN with affine parameters,sinc,8,5,-1.997486599758707
+RMSNorm,affine_pre,PN with affine parameters,sinc,16,0,-1.995629777041844
+RMSNorm,affine_pre,PN with affine parameters,sinc,16,1,-1.9970346493467366
+RMSNorm,affine_pre,PN with affine parameters,sinc,16,2,-1.9978823323288297
+RMSNorm,affine_pre,PN with affine parameters,sinc,16,3,-1.9973872373996895
+RMSNorm,affine_pre,PN with affine parameters,sinc,16,4,-1.995409875163399
+RMSNorm,affine_pre,PN with affine parameters,sinc,16,5,-1.9882816139530124
+RMSNorm,affine_pre,PN with affine parameters,sinc,32,0,-1.9913251149468112
+RMSNorm,affine_pre,PN with affine parameters,sinc,32,1,-1.9913862846873742
+RMSNorm,affine_pre,PN with affine parameters,sinc,32,2,-1.9915203392740093
+RMSNorm,affine_pre,PN with affine parameters,sinc,32,3,-1.9917690441657698
+RMSNorm,affine_pre,PN with affine parameters,sinc,32,4,-1.984973192801074
+RMSNorm,affine_pre,PN with affine parameters,sinc,32,5,-1.987343119861091
+RMSNorm,affine_pre,PN with affine parameters,tanh,4,0,-1.9996238708845735
+RMSNorm,affine_pre,PN with affine parameters,tanh,4,1,-1.9995549282009952
+RMSNorm,affine_pre,PN with affine parameters,tanh,4,2,-1.9994764875206703
+RMSNorm,affine_pre,PN with affine parameters,tanh,4,3,-1.999184535601648
+RMSNorm,affine_pre,PN with affine parameters,tanh,4,4,-1.9989192573742478
+RMSNorm,affine_pre,PN with affine parameters,tanh,4,5,-1.9993616317663678
+RMSNorm,affine_pre,PN with affine parameters,tanh,8,0,-1.9997161582929184
+RMSNorm,affine_pre,PN with affine parameters,tanh,8,1,-1.9990239227060738
+RMSNorm,affine_pre,PN with affine parameters,tanh,8,2,-1.9987058740348012
+RMSNorm,affine_pre,PN with affine parameters,tanh,8,3,-1.998986493409045
+RMSNorm,affine_pre,PN with affine parameters,tanh,8,4,-1.999421711533048
+RMSNorm,affine_pre,PN with affine parameters,tanh,8,5,-1.997954922299126
+RMSNorm,affine_pre,PN with affine parameters,tanh,16,0,-1.998897885683189
+RMSNorm,affine_pre,PN with affine parameters,tanh,16,1,-1.9987374341388635
+RMSNorm,affine_pre,PN with affine parameters,tanh,16,2,-1.9983241540225885
+RMSNorm,affine_pre,PN with affine parameters,tanh,16,3,-1.9979994064105098
+RMSNorm,affine_pre,PN with affine parameters,tanh,16,4,-1.998734959021685
+RMSNorm,affine_pre,PN with affine parameters,tanh,16,5,-1.9975176423759797
+RMSNorm,affine_pre,PN with affine parameters,tanh,32,0,-1.9959205354744354
+RMSNorm,affine_pre,PN with affine parameters,tanh,32,1,-1.9901474922874123
+RMSNorm,affine_pre,PN with affine parameters,tanh,32,2,-1.9897930299254307
+RMSNorm,affine_pre,PN with affine parameters,tanh,32,3,-1.9942225845682733
+RMSNorm,affine_pre,PN with affine parameters,tanh,32,4,-1.9935070884595425
+RMSNorm,affine_pre,PN with affine parameters,tanh,32,5,-1.9966674961983835
+RMSNorm,general_pre,"PN, general",gaussian,4,0,-0.9854064083795372
+RMSNorm,general_pre,"PN, general",gaussian,4,1,-0.9829492411384895
+RMSNorm,general_pre,"PN, general",gaussian,4,2,-0.9842565250444738
+RMSNorm,general_pre,"PN, general",gaussian,4,3,-0.960833912815245
+RMSNorm,general_pre,"PN, general",gaussian,4,4,-0.9852190396881793
+RMSNorm,general_pre,"PN, general",gaussian,4,5,-0.985719776469657
+RMSNorm,general_pre,"PN, general",gaussian,8,0,-0.9679166577678378
+RMSNorm,general_pre,"PN, general",gaussian,8,1,-0.979368728806439
+RMSNorm,general_pre,"PN, general",gaussian,8,2,-0.9682294088543473
+RMSNorm,general_pre,"PN, general",gaussian,8,3,-0.9204704514190962
+RMSNorm,general_pre,"PN, general",gaussian,8,4,-0.9618466806274559
+RMSNorm,general_pre,"PN, general",gaussian,8,5,-0.9571806179396289
+RMSNorm,general_pre,"PN, general",gaussian,16,0,-0.9448870219151033
+RMSNorm,general_pre,"PN, general",gaussian,16,1,-0.9390079624091319
+RMSNorm,general_pre,"PN, general",gaussian,16,2,-0.9414706009349921
+RMSNorm,general_pre,"PN, general",gaussian,16,3,-0.9164552656541758
+RMSNorm,general_pre,"PN, general",gaussian,16,4,-0.867014500905952
+RMSNorm,general_pre,"PN, general",gaussian,16,5,-0.8082094350760681
+RMSNorm,general_pre,"PN, general",gaussian,32,0,-0.7985248255907426
+RMSNorm,general_pre,"PN, general",gaussian,32,1,-0.7366830176664034
+RMSNorm,general_pre,"PN, general",gaussian,32,2,-0.9024235637133848
+RMSNorm,general_pre,"PN, general",gaussian,32,3,-0.9038650392190947
+RMSNorm,general_pre,"PN, general",gaussian,32,4,-0.7729096316925005
+RMSNorm,general_pre,"PN, general",gaussian,32,5,-0.8056709648304741
+RMSNorm,general_pre,"PN, general",sinc,4,0,-0.9859288407637917
+RMSNorm,general_pre,"PN, general",sinc,4,1,-0.9893602711150165
+RMSNorm,general_pre,"PN, general",sinc,4,2,-0.9851294338843085
+RMSNorm,general_pre,"PN, general",sinc,4,3,-0.9369352617951581
+RMSNorm,general_pre,"PN, general",sinc,4,4,-0.9843991462352946
+RMSNorm,general_pre,"PN, general",sinc,4,5,-0.9593495218667155
+RMSNorm,general_pre,"PN, general",sinc,8,0,-0.9711140188027048
+RMSNorm,general_pre,"PN, general",sinc,8,1,-0.9567173708708856
+RMSNorm,general_pre,"PN, general",sinc,8,2,-0.9724720883974864
+RMSNorm,general_pre,"PN, general",sinc,8,3,-0.9715488861287462
+RMSNorm,general_pre,"PN, general",sinc,8,4,-0.9777821819503779
+RMSNorm,general_pre,"PN, general",sinc,8,5,-0.9159026073770198
+RMSNorm,general_pre,"PN, general",sinc,16,0,-0.8541540425428538
+RMSNorm,general_pre,"PN, general",sinc,16,1,-0.9521871123429447
+RMSNorm,general_pre,"PN, general",sinc,16,2,-0.956546977288522
+RMSNorm,general_pre,"PN, general",sinc,16,3,-0.9379431274693858
+RMSNorm,general_pre,"PN, general",sinc,16,4,-0.863982801095946
+RMSNorm,general_pre,"PN, general",sinc,16,5,-0.809127706645533
+RMSNorm,general_pre,"PN, general",sinc,32,0,-0.8795875729344266
+RMSNorm,general_pre,"PN, general",sinc,32,1,-0.7435575829483547
+RMSNorm,general_pre,"PN, general",sinc,32,2,-0.7687820577850571
+RMSNorm,general_pre,"PN, general",sinc,32,3,-0.9252962279612087
+RMSNorm,general_pre,"PN, general",sinc,32,4,-0.6983582472469665
+RMSNorm,general_pre,"PN, general",sinc,32,5,-0.7068771665325334
+RMSNorm,general_pre,"PN, general",tanh,4,0,-0.9846126025905774
+RMSNorm,general_pre,"PN, general",tanh,4,1,-0.9814574746836945
+RMSNorm,general_pre,"PN, general",tanh,4,2,-0.9825664804836058
+RMSNorm,general_pre,"PN, general",tanh,4,3,-0.9545790174837318
+RMSNorm,general_pre,"PN, general",tanh,4,4,-0.9882511129699839
+RMSNorm,general_pre,"PN, general",tanh,4,5,-0.9855982571081081
+RMSNorm,general_pre,"PN, general",tanh,8,0,-0.9643919654565312
+RMSNorm,general_pre,"PN, general",tanh,8,1,-0.9684285754573914
+RMSNorm,general_pre,"PN, general",tanh,8,2,-0.9586764076172334
+RMSNorm,general_pre,"PN, general",tanh,8,3,-0.9727474262548673
+RMSNorm,general_pre,"PN, general",tanh,8,4,-0.9589644770118079
+RMSNorm,general_pre,"PN, general",tanh,8,5,-0.9206575155531237
+RMSNorm,general_pre,"PN, general",tanh,16,0,-0.9399225617175299
+RMSNorm,general_pre,"PN, general",tanh,16,1,-0.9246731256831835
+RMSNorm,general_pre,"PN, general",tanh,16,2,-0.957627835127625
+RMSNorm,general_pre,"PN, general",tanh,16,3,-0.9323133244847971
+RMSNorm,general_pre,"PN, general",tanh,16,4,-0.8949795256126595
+RMSNorm,general_pre,"PN, general",tanh,16,5,-0.8644652858278945
+RMSNorm,general_pre,"PN, general",tanh,32,0,-0.8872198230577344
+RMSNorm,general_pre,"PN, general",tanh,32,1,-0.8749052449651921
+RMSNorm,general_pre,"PN, general",tanh,32,2,-0.9638448751729535
+RMSNorm,general_pre,"PN, general",tanh,32,3,-0.9190581289296988
+RMSNorm,general_pre,"PN, general",tanh,32,4,-0.8666477603861147
+RMSNorm,general_pre,"PN, general",tanh,32,5,-0.8906291936780146
+RMSNorm,homogeneous_pre,"PN, homogeneous",absolute,4,0,-1.9990593677509216
+RMSNorm,homogeneous_pre,"PN, homogeneous",absolute,4,1,-1.9994054244972719
+RMSNorm,homogeneous_pre,"PN, homogeneous",absolute,4,2,-1.9994340925041756
+RMSNorm,homogeneous_pre,"PN, homogeneous",absolute,4,3,-1.9983287772906593
+RMSNorm,homogeneous_pre,"PN, homogeneous",absolute,4,4,-1.999121039508583
+RMSNorm,homogeneous_pre,"PN, homogeneous",absolute,4,5,-1.9990283296883957
+RMSNorm,homogeneous_pre,"PN, homogeneous",absolute,8,0,-1.9984582467598413
+RMSNorm,homogeneous_pre,"PN, homogeneous",absolute,8,1,-1.9981264916229093
+RMSNorm,homogeneous_pre,"PN, homogeneous",absolute,8,2,-1.9987177520407473
+RMSNorm,homogeneous_pre,"PN, homogeneous",absolute,8,3,-1.9975837223107318
+RMSNorm,homogeneous_pre,"PN, homogeneous",absolute,8,4,-1.9987177262038809
+RMSNorm,homogeneous_pre,"PN, homogeneous",absolute,8,5,-1.9977655240152032
+RMSNorm,homogeneous_pre,"PN, homogeneous",absolute,16,0,-1.9954001466289168
+RMSNorm,homogeneous_pre,"PN, homogeneous",absolute,16,1,-1.9970359076284023
+RMSNorm,homogeneous_pre,"PN, homogeneous",absolute,16,2,-1.997742169600858
+RMSNorm,homogeneous_pre,"PN, homogeneous",absolute,16,3,-1.9979737734643144
+RMSNorm,homogeneous_pre,"PN, homogeneous",absolute,16,4,-1.9955559310088014
+RMSNorm,homogeneous_pre,"PN, homogeneous",absolute,16,5,-1.9943734434973468
+RMSNorm,homogeneous_pre,"PN, homogeneous",absolute,32,0,-1.99145245286731
+RMSNorm,homogeneous_pre,"PN, homogeneous",absolute,32,1,-1.988925468025477
+RMSNorm,homogeneous_pre,"PN, homogeneous",absolute,32,2,-1.9917746679135602
+RMSNorm,homogeneous_pre,"PN, homogeneous",absolute,32,3,-1.9922880031139352
+RMSNorm,homogeneous_pre,"PN, homogeneous",absolute,32,4,-1.9892590261199614
+RMSNorm,homogeneous_pre,"PN, homogeneous",absolute,32,5,-1.9871945952530083
+RMSNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,4,0,-1.9995896235599226
+RMSNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,4,1,-1.9994054244898907
+RMSNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,4,2,-1.9992259343878576
+RMSNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,4,3,-1.9983287772950136
+RMSNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,4,4,-1.99912103951728
+RMSNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,4,5,-1.999028329694366
+RMSNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,8,0,-1.9988354837010553
+RMSNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,8,1,-1.9981264916384303
+RMSNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,8,2,-1.9987177520473653
+RMSNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,8,3,-1.9975837222834727
+RMSNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,8,4,-1.998666931631562
+RMSNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,8,5,-1.9977655240049608
+RMSNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,16,0,-1.9964483404843543
+RMSNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,16,1,-1.9970359076295237
+RMSNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,16,2,-1.9951037959776414
+RMSNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,16,3,-1.9960948088509949
+RMSNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,16,4,-1.9955559310106152
+RMSNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,16,5,-1.9943734434909197
+RMSNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,32,0,-1.9927144796396328
+RMSNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,32,1,-1.9889254680279336
+RMSNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,32,2,-1.9917746679127741
+RMSNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,32,3,-1.992288003112983
+RMSNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,32,4,-1.9892590261171674
+RMSNorm,homogeneous_pre,"PN, homogeneous",leaky_relu,32,5,-1.9871945952524084
+RMSNorm,homogeneous_pre,"PN, homogeneous",relu,4,0,-1.9995896235435613
+RMSNorm,homogeneous_pre,"PN, homogeneous",relu,4,1,-1.999405424487444
+RMSNorm,homogeneous_pre,"PN, homogeneous",relu,4,2,-1.9992259344090186
+RMSNorm,homogeneous_pre,"PN, homogeneous",relu,4,3,-1.9983287772856528
+RMSNorm,homogeneous_pre,"PN, homogeneous",relu,4,4,-1.9991210395195707
+RMSNorm,homogeneous_pre,"PN, homogeneous",relu,4,5,-1.9990283296918891
+RMSNorm,homogeneous_pre,"PN, homogeneous",relu,8,0,-1.9988354837039022
+RMSNorm,homogeneous_pre,"PN, homogeneous",relu,8,1,-1.9981264916116317
+RMSNorm,homogeneous_pre,"PN, homogeneous",relu,8,2,-1.9987177520347268
+RMSNorm,homogeneous_pre,"PN, homogeneous",relu,8,3,-1.9975837222840764
+RMSNorm,homogeneous_pre,"PN, homogeneous",relu,8,4,-1.998666931627198
+RMSNorm,homogeneous_pre,"PN, homogeneous",relu,8,5,-1.997765524012751
+RMSNorm,homogeneous_pre,"PN, homogeneous",relu,16,0,-1.9964483404842097
+RMSNorm,homogeneous_pre,"PN, homogeneous",relu,16,1,-1.9970359076316468
+RMSNorm,homogeneous_pre,"PN, homogeneous",relu,16,2,-1.9951037959710607
+RMSNorm,homogeneous_pre,"PN, homogeneous",relu,16,3,-1.9960948088549149
+RMSNorm,homogeneous_pre,"PN, homogeneous",relu,16,4,-1.9955559310062383
+RMSNorm,homogeneous_pre,"PN, homogeneous",relu,16,5,-1.994373443493233
+RMSNorm,homogeneous_pre,"PN, homogeneous",relu,32,0,-1.9927144796395146
+RMSNorm,homogeneous_pre,"PN, homogeneous",relu,32,1,-1.9889254680288218
+RMSNorm,homogeneous_pre,"PN, homogeneous",relu,32,2,-1.9917746679135278
+RMSNorm,homogeneous_pre,"PN, homogeneous",relu,32,3,-1.9922880031145884
+RMSNorm,homogeneous_pre,"PN, homogeneous",relu,32,4,-1.9892590261170513
+RMSNorm,homogeneous_pre,"PN, homogeneous",relu,32,5,-1.987194595251916
+RMSNorm,post_general,"AN, bounded/general",gaussian,4,0,-0.9786898473504427
+RMSNorm,post_general,"AN, bounded/general",gaussian,4,1,-0.9814752146179894
+RMSNorm,post_general,"AN, bounded/general",gaussian,4,2,-0.9815129598659681
+RMSNorm,post_general,"AN, bounded/general",gaussian,4,3,-0.9818817823447002
+RMSNorm,post_general,"AN, bounded/general",gaussian,4,4,-0.9788062945191998
+RMSNorm,post_general,"AN, bounded/general",gaussian,4,5,-0.9784948315617913
+RMSNorm,post_general,"AN, bounded/general",gaussian,8,0,-0.9715367673980128
+RMSNorm,post_general,"AN, bounded/general",gaussian,8,1,-0.9798216667904149
+RMSNorm,post_general,"AN, bounded/general",gaussian,8,2,-0.9667539172846915
+RMSNorm,post_general,"AN, bounded/general",gaussian,8,3,-0.9577944760326244
+RMSNorm,post_general,"AN, bounded/general",gaussian,8,4,-0.9651971693034727
+RMSNorm,post_general,"AN, bounded/general",gaussian,8,5,-0.9782818778963963
+RMSNorm,post_general,"AN, bounded/general",gaussian,16,0,-0.9358167228268894
+RMSNorm,post_general,"AN, bounded/general",gaussian,16,1,-0.953452446684033
+RMSNorm,post_general,"AN, bounded/general",gaussian,16,2,-0.9375217279122484
+RMSNorm,post_general,"AN, bounded/general",gaussian,16,3,-0.939540299552376
+RMSNorm,post_general,"AN, bounded/general",gaussian,16,4,-0.9298990714243435
+RMSNorm,post_general,"AN, bounded/general",gaussian,16,5,-0.9453768718055784
+RMSNorm,post_general,"AN, bounded/general",gaussian,32,0,-0.8847609610240891
+RMSNorm,post_general,"AN, bounded/general",gaussian,32,1,-0.8838705229100804
+RMSNorm,post_general,"AN, bounded/general",gaussian,32,2,-0.8902747582425653
+RMSNorm,post_general,"AN, bounded/general",gaussian,32,3,-0.8914222509791636
+RMSNorm,post_general,"AN, bounded/general",gaussian,32,4,-0.902961590187894
+RMSNorm,post_general,"AN, bounded/general",gaussian,32,5,-0.8902165026472438
+RMSNorm,post_general,"AN, bounded/general",sinc,4,0,-0.9772342815399689
+RMSNorm,post_general,"AN, bounded/general",sinc,4,1,-0.9781787692588159
+RMSNorm,post_general,"AN, bounded/general",sinc,4,2,-0.9780261641883686
+RMSNorm,post_general,"AN, bounded/general",sinc,4,3,-0.9779673507598013
+RMSNorm,post_general,"AN, bounded/general",sinc,4,4,-0.9772573350844758
+RMSNorm,post_general,"AN, bounded/general",sinc,4,5,-0.9772086624691062
+RMSNorm,post_general,"AN, bounded/general",sinc,8,0,-0.9594719805667683
+RMSNorm,post_general,"AN, bounded/general",sinc,8,1,-0.9640342119359512
+RMSNorm,post_general,"AN, bounded/general",sinc,8,2,-0.9587755653197665
+RMSNorm,post_general,"AN, bounded/general",sinc,8,3,-0.9562578262375888
+RMSNorm,post_general,"AN, bounded/general",sinc,8,4,-0.9588032648774228
+RMSNorm,post_general,"AN, bounded/general",sinc,8,5,-0.9620671838072824
+RMSNorm,post_general,"AN, bounded/general",sinc,16,0,-0.9228448119558701
+RMSNorm,post_general,"AN, bounded/general",sinc,16,1,-0.9277373239811615
+RMSNorm,post_general,"AN, bounded/general",sinc,16,2,-0.933552256589638
+RMSNorm,post_general,"AN, bounded/general",sinc,16,3,-0.9232941195705661
+RMSNorm,post_general,"AN, bounded/general",sinc,16,4,-0.9223002381091354
+RMSNorm,post_general,"AN, bounded/general",sinc,16,5,-0.9251962285043643
+RMSNorm,post_general,"AN, bounded/general",sinc,32,0,-0.8643977447009952
+RMSNorm,post_general,"AN, bounded/general",sinc,32,1,-0.8643378146144378
+RMSNorm,post_general,"AN, bounded/general",sinc,32,2,-0.865674563092234
+RMSNorm,post_general,"AN, bounded/general",sinc,32,3,-0.8664866019475862
+RMSNorm,post_general,"AN, bounded/general",sinc,32,4,-0.8711834592527941
+RMSNorm,post_general,"AN, bounded/general",sinc,32,5,-0.8668756562841077
+RMSNorm,post_general,"AN, bounded/general",tanh,4,0,-0.9777208841787031
+RMSNorm,post_general,"AN, bounded/general",tanh,4,1,-0.9860842628338591
+RMSNorm,post_general,"AN, bounded/general",tanh,4,2,-0.9828886379456157
+RMSNorm,post_general,"AN, bounded/general",tanh,4,3,-0.9751741904589707
+RMSNorm,post_general,"AN, bounded/general",tanh,4,4,-0.9907399465144326
+RMSNorm,post_general,"AN, bounded/general",tanh,4,5,-0.9819214822436513
+RMSNorm,post_general,"AN, bounded/general",tanh,8,0,-0.9649004826344301
+RMSNorm,post_general,"AN, bounded/general",tanh,8,1,-0.9748152505542176
+RMSNorm,post_general,"AN, bounded/general",tanh,8,2,-0.9727036434217854
+RMSNorm,post_general,"AN, bounded/general",tanh,8,3,-0.9620386742801768
+RMSNorm,post_general,"AN, bounded/general",tanh,8,4,-0.9755700961243647
+RMSNorm,post_general,"AN, bounded/general",tanh,8,5,-0.9631625584670536
+RMSNorm,post_general,"AN, bounded/general",tanh,16,0,-0.9400492664872209
+RMSNorm,post_general,"AN, bounded/general",tanh,16,1,-0.948518966509192
+RMSNorm,post_general,"AN, bounded/general",tanh,16,2,-0.9377577981703357
+RMSNorm,post_general,"AN, bounded/general",tanh,16,3,-0.9501182962807424
+RMSNorm,post_general,"AN, bounded/general",tanh,16,4,-0.9428714632363613
+RMSNorm,post_general,"AN, bounded/general",tanh,16,5,-0.9357552452029458
+RMSNorm,post_general,"AN, bounded/general",tanh,32,0,-0.8875959409006401
+RMSNorm,post_general,"AN, bounded/general",tanh,32,1,-0.8934409254159209
+RMSNorm,post_general,"AN, bounded/general",tanh,32,2,-0.9071199572081634
+RMSNorm,post_general,"AN, bounded/general",tanh,32,3,-0.9086271673665187
+RMSNorm,post_general,"AN, bounded/general",tanh,32,4,-0.9174911616703306
+RMSNorm,post_general,"AN, bounded/general",tanh,32,5,-0.878164643159115
+RMSNorm,post_unbounded,"AN, unbounded",exponential,4,0,-1.9972838880950627
+RMSNorm,post_unbounded,"AN, unbounded",exponential,4,1,-1.997862216768494
+RMSNorm,post_unbounded,"AN, unbounded",exponential,4,2,-1.9934237477800634
+RMSNorm,post_unbounded,"AN, unbounded",exponential,4,3,-1.9921972968329242
+RMSNorm,post_unbounded,"AN, unbounded",exponential,4,4,-1.986979900404239
+RMSNorm,post_unbounded,"AN, unbounded",exponential,4,5,-1.9945480672466915
+RMSNorm,post_unbounded,"AN, unbounded",exponential,8,0,-1.9929064945216757
+RMSNorm,post_unbounded,"AN, unbounded",exponential,8,1,-1.9875287930679613
+RMSNorm,post_unbounded,"AN, unbounded",exponential,8,2,-1.9888698494850456
+RMSNorm,post_unbounded,"AN, unbounded",exponential,8,3,-1.975447470285222
+RMSNorm,post_unbounded,"AN, unbounded",exponential,8,4,-1.985606987012599
+RMSNorm,post_unbounded,"AN, unbounded",exponential,8,5,-1.9947933607583923
+RMSNorm,post_unbounded,"AN, unbounded",exponential,16,0,-1.96011426367458
+RMSNorm,post_unbounded,"AN, unbounded",exponential,16,1,-1.976511664577024
+RMSNorm,post_unbounded,"AN, unbounded",exponential,16,2,-1.983975906971175
+RMSNorm,post_unbounded,"AN, unbounded",exponential,16,3,-1.9875767990509248
+RMSNorm,post_unbounded,"AN, unbounded",exponential,16,4,-1.9416674629878905
+RMSNorm,post_unbounded,"AN, unbounded",exponential,16,5,-1.8101200243718827
+RMSNorm,post_unbounded,"AN, unbounded",exponential,32,0,-1.9584108469592127
+RMSNorm,post_unbounded,"AN, unbounded",exponential,32,1,-1.8837657211482777
+RMSNorm,post_unbounded,"AN, unbounded",exponential,32,2,-1.9248873169417355
+RMSNorm,post_unbounded,"AN, unbounded",exponential,32,3,-1.9458631854247577
+RMSNorm,post_unbounded,"AN, unbounded",exponential,32,4,-1.9026643999643367
+RMSNorm,post_unbounded,"AN, unbounded",exponential,32,5,-1.863605471676236
+RMSNorm,post_unbounded,"AN, unbounded",relu,4,0,-1.9996927036614642
+RMSNorm,post_unbounded,"AN, unbounded",relu,4,1,-1.9997453098812246
+RMSNorm,post_unbounded,"AN, unbounded",relu,4,2,-1.999248341273654
+RMSNorm,post_unbounded,"AN, unbounded",relu,4,3,-1.9992063582708184
+RMSNorm,post_unbounded,"AN, unbounded",relu,4,4,-1.999143087019145
+RMSNorm,post_unbounded,"AN, unbounded",relu,4,5,-1.9994310305119294
+RMSNorm,post_unbounded,"AN, unbounded",relu,8,0,-1.9992758422300079
+RMSNorm,post_unbounded,"AN, unbounded",relu,8,1,-1.9984123608488926
+RMSNorm,post_unbounded,"AN, unbounded",relu,8,2,-1.9990250350832361
+RMSNorm,post_unbounded,"AN, unbounded",relu,8,3,-1.9983707186875947
+RMSNorm,post_unbounded,"AN, unbounded",relu,8,4,-1.9986676126367384
+RMSNorm,post_unbounded,"AN, unbounded",relu,8,5,-1.999416416100457
+RMSNorm,post_unbounded,"AN, unbounded",relu,16,0,-1.9967129165602924
+RMSNorm,post_unbounded,"AN, unbounded",relu,16,1,-1.9979163674254774
+RMSNorm,post_unbounded,"AN, unbounded",relu,16,2,-1.9977072421754898
+RMSNorm,post_unbounded,"AN, unbounded",relu,16,3,-1.9984650445918914
+RMSNorm,post_unbounded,"AN, unbounded",relu,16,4,-1.9974538027101694
+RMSNorm,post_unbounded,"AN, unbounded",relu,16,5,-1.9970288263274625
+RMSNorm,post_unbounded,"AN, unbounded",relu,32,0,-1.9957817684776784
+RMSNorm,post_unbounded,"AN, unbounded",relu,32,1,-1.9953697851758903
+RMSNorm,post_unbounded,"AN, unbounded",relu,32,2,-1.9952284397727191
+RMSNorm,post_unbounded,"AN, unbounded",relu,32,3,-1.996667859133419
+RMSNorm,post_unbounded,"AN, unbounded",relu,32,4,-1.995874457971176
+RMSNorm,post_unbounded,"AN, unbounded",relu,32,5,-1.9928907787419419
+RMSNorm,post_unbounded,"AN, unbounded",x_sin_x,4,0,-1.999205194397339
+RMSNorm,post_unbounded,"AN, unbounded",x_sin_x,4,1,-1.999497952312659
+RMSNorm,post_unbounded,"AN, unbounded",x_sin_x,4,2,-1.9995042666039042
+RMSNorm,post_unbounded,"AN, unbounded",x_sin_x,4,3,-1.998616706467023
+RMSNorm,post_unbounded,"AN, unbounded",x_sin_x,4,4,-1.9994047574213722
+RMSNorm,post_unbounded,"AN, unbounded",x_sin_x,4,5,-1.9990919105552591
+RMSNorm,post_unbounded,"AN, unbounded",x_sin_x,8,0,-1.99872744585957
+RMSNorm,post_unbounded,"AN, unbounded",x_sin_x,8,1,-1.9992564530125558
+RMSNorm,post_unbounded,"AN, unbounded",x_sin_x,8,2,-1.9990782256612172
+RMSNorm,post_unbounded,"AN, unbounded",x_sin_x,8,3,-1.998283660492555
+RMSNorm,post_unbounded,"AN, unbounded",x_sin_x,8,4,-1.9989102872052096
+RMSNorm,post_unbounded,"AN, unbounded",x_sin_x,8,5,-1.9981733595182813
+RMSNorm,post_unbounded,"AN, unbounded",x_sin_x,16,0,-1.9972252012082772
+RMSNorm,post_unbounded,"AN, unbounded",x_sin_x,16,1,-1.9979676663887629
+RMSNorm,post_unbounded,"AN, unbounded",x_sin_x,16,2,-1.9972340682837413
+RMSNorm,post_unbounded,"AN, unbounded",x_sin_x,16,3,-1.9984291602053432
+RMSNorm,post_unbounded,"AN, unbounded",x_sin_x,16,4,-1.99781580228819
+RMSNorm,post_unbounded,"AN, unbounded",x_sin_x,16,5,-1.9960754991370313
+RMSNorm,post_unbounded,"AN, unbounded",x_sin_x,32,0,-1.9941173447911147
+RMSNorm,post_unbounded,"AN, unbounded",x_sin_x,32,1,-1.9936106942345526
+RMSNorm,post_unbounded,"AN, unbounded",x_sin_x,32,2,-1.9941736782377204
+RMSNorm,post_unbounded,"AN, unbounded",x_sin_x,32,3,-1.9945332867669152
+RMSNorm,post_unbounded,"AN, unbounded",x_sin_x,32,4,-1.992404415819473
+RMSNorm,post_unbounded,"AN, unbounded",x_sin_x,32,5,-1.9939643025148444

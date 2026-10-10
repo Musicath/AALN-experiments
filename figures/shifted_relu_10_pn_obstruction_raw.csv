@@ -1,0 +1,374 @@
+construction,control,value,sup_error
+RMSNorm no-gain,width,2.0,2.0
+RMSNorm no-gain,width,3.0,2.0
+RMSNorm no-gain,width,4.0,2.0
+RMSNorm no-gain,width,5.0,2.0
+RMSNorm no-gain,width,7.0,2.0
+RMSNorm no-gain,width,8.0,2.0
+RMSNorm no-gain,width,10.0,2.0
+RMSNorm no-gain,width,12.0,2.0
+RMSNorm no-gain,width,15.0,2.0
+RMSNorm no-gain,width,18.0,2.0
+RMSNorm no-gain,width,22.0,2.0
+RMSNorm no-gain,width,27.0,2.0
+RMSNorm no-gain,width,33.0,2.0
+RMSNorm no-gain,width,40.0,2.0
+RMSNorm no-gain,width,48.0,2.0
+RMSNorm no-gain,width,59.0,2.0
+RMSNorm no-gain,width,72.0,2.0
+RMSNorm no-gain,width,88.0,2.0
+RMSNorm no-gain,width,99.0,2.0
+RMSNorm no-gain,width,100.0,2.0
+RMSNorm no-gain,width,101.0,2.0
+RMSNorm no-gain,width,102.0,2.0
+RMSNorm no-gain,width,107.0,2.0
+RMSNorm no-gain,width,131.0,2.0
+RMSNorm no-gain,width,160.0,2.0
+RMSNorm no-gain,width,195.0,2.0
+RMSNorm no-gain,width,238.0,2.0
+RMSNorm no-gain,width,291.0,2.0
+RMSNorm no-gain,width,326.0,1.9953102681227506
+RMSNorm no-gain,width,355.0,1.8683366415164304
+RMSNorm no-gain,width,433.0,1.5956739766575936
+RMSNorm no-gain,width,529.0,1.3530688526156585
+RMSNorm no-gain,width,645.0,1.1432960662746012
+RMSNorm no-gain,width,787.0,0.9610659701160884
+RMSNorm no-gain,width,961.0,0.8041156630234632
+RMSNorm no-gain,width,1001.0,0.7750278396781756
+RMSNorm no-gain,width,1173.0,0.6707200764291237
+RMSNorm no-gain,width,1431.0,0.5580854802171409
+RMSNorm no-gain,width,1747.0,0.4628962947903634
+RMSNorm no-gain,width,2132.0,0.3832633055332
+RMSNorm no-gain,width,2601.0,0.3168657106854482
+RMSNorm no-gain,width,3175.0,0.26143740835776974
+RMSNorm no-gain,width,3875.0,0.21547361070416393
+RMSNorm no-gain,width,4729.0,0.17741995100991836
+RMSNorm no-gain,width,5771.0,0.14596724057668098
+RMSNorm no-gain,width,7043.0,0.11999881925298261
+RMSNorm no-gain,width,8595.0,0.09859686178666571
+RMSNorm no-gain,width,10490.0,0.08096532570660031
+RMSNorm no-gain,width,12802.0,0.06646448078305234
+RMSNorm no-gain,width,15623.0,0.054544870031826065
+RMSNorm no-gain,width,19067.0,0.04474766878727898
+RMSNorm no-gain,width,23269.0,0.03670400555335185
+RMSNorm no-gain,width,28398.0,0.030099765876499873
+RMSNorm no-gain,width,34657.0,0.024680552817432755
+RMSNorm no-gain,width,42295.0,0.020234789673182263
+RMSNorm no-gain,width,51618.0,0.016587651294921457
+RMSNorm no-gain,width,62995.0,0.013596983872162127
+RMSNorm no-gain,width,76879.0,0.011144849698533577
+RMSNorm no-gain,width,93824.0,0.009134341599121854
+RMSNorm no-gain,width,114504.0,0.007486176823885415
+RMSNorm no-gain,width,139742.0,0.006135178101297711
+RMSNorm no-gain,width,170542.0,0.005027857067426922
+RMSNorm no-gain,width,208131.0,0.004120280617478045
+RMSNorm no-gain,width,254005.0,0.0033764606664341557
+RMSNorm no-gain,width,309989.0,0.0027668828997597927
+RMSNorm no-gain,width,378314.0,0.0022673145539755524
+RMSNorm no-gain,width,461697.0,0.0018579300756584871
+RMSNorm no-gain,width,563459.0,0.0015224474557378187
+RMSNorm no-gain,width,687651.0,0.0012475313852196024
+RMSNorm no-gain,width,839215.0,0.001022253373548665
+RMSNorm no-gain,width,1024185.0,0.0008376515599373136
+RMSNorm no-gain,width,1249925.0,0.0006863822918976581
+RMSNorm no-gain,width,1525419.0,0.0005624288670684763
+RMSNorm no-gain,width,1861634.0,0.00046085888697788846
+RMSNorm no-gain,width,2271955.0,0.00037763049855499276
+RMSNorm no-gain,width,2772713.0,0.00030943224687618454
+RMSNorm no-gain,width,3383843.0,0.0002535498268905201
+RMSNorm no-gain,width,4129671.0,0.00020775933915295752
+RMSNorm no-gain,width,5039887.0,0.00017023828946705066
+RMSNorm no-gain,width,6150722.0,0.00013949338620200535
+RMSNorm no-gain,width,7506394.0,0.00011430092015451976
+RMSNorm no-gain,width,9160868.0,9.36581506447709e-05
+RMSNorm no-gain,width,11180003.0,7.674342925234612e-05
+RMSNorm no-gain,width,13644172.0,6.288349749361544e-05
+RMSNorm no-gain,width,16651466.0,5.1526662804946e-05
+RMSNorm no-gain,width,20321593.0,4.2220876670384655e-05
+RMSNorm no-gain,width,24800648.0,3.4595720627805804e-05
+RMSNorm no-gain,width,30266926.0,2.834767428083751e-05
+RMSNorm no-gain,width,36938019.0,2.3228032581812386e-05
+RMSNorm no-gain,width,45079478.0,1.9033005631996502e-05
+RMSNorm no-gain,width,55015385.0,1.5595607072427242e-05
+RMSNorm no-gain,width,67141252.0,1.2779008491392574e-05
+RMSNorm no-gain,width,81939766.0,1.0471092593888898e-05
+RMSNorm no-gain,width,100000000.0,8.57999079784122e-06
+LayerNorm no-affine,width,3.0,2.0
+LayerNorm no-affine,width,5.0,2.0
+LayerNorm no-affine,width,7.0,2.0
+LayerNorm no-affine,width,9.0,2.0
+LayerNorm no-affine,width,11.0,2.0
+LayerNorm no-affine,width,13.0,2.0
+LayerNorm no-affine,width,15.0,2.0
+LayerNorm no-affine,width,19.0,2.0
+LayerNorm no-affine,width,23.0,2.0
+LayerNorm no-affine,width,27.0,2.0
+LayerNorm no-affine,width,33.0,2.0
+LayerNorm no-affine,width,41.0,2.0
+LayerNorm no-affine,width,49.0,2.0
+LayerNorm no-affine,width,59.0,2.0
+LayerNorm no-affine,width,73.0,2.0
+LayerNorm no-affine,width,89.0,2.0
+LayerNorm no-affine,width,99.0,2.0
+LayerNorm no-affine,width,101.0,2.0
+LayerNorm no-affine,width,103.0,2.0
+LayerNorm no-affine,width,107.0,2.0
+LayerNorm no-affine,width,131.0,2.0
+LayerNorm no-affine,width,161.0,2.0
+LayerNorm no-affine,width,195.0,2.0
+LayerNorm no-affine,width,239.0,2.0
+LayerNorm no-affine,width,291.0,2.0
+LayerNorm no-affine,width,333.0,1.9886856460133249
+LayerNorm no-affine,width,355.0,1.8927593960937834
+LayerNorm no-affine,width,433.0,1.6167045232897053
+LayerNorm no-affine,width,529.0,1.371042385526117
+LayerNorm no-affine,width,645.0,1.1585922651620653
+LayerNorm no-affine,width,787.0,0.9740078593677275
+LayerNorm no-affine,width,961.0,0.8150068217191091
+LayerNorm no-affine,width,1001.0,0.7855364756160519
+LayerNorm no-affine,width,1173.0,0.679850448117163
+LayerNorm no-affine,width,1431.0,0.5657157135718744
+LayerNorm no-affine,width,1747.0,0.46924880320679385
+LayerNorm no-affine,width,2133.0,0.38836619912203396
+LayerNorm no-affine,width,2601.0,0.32123967953144295
+LayerNorm no-affine,width,3175.0,0.2650543896250923
+LayerNorm no-affine,width,3875.0,0.2184602966954099
+LayerNorm no-affine,width,4729.0,0.17988302951371615
+LayerNorm no-affine,width,5771.0,0.14799630666128216
+LayerNorm no-affine,width,7043.0,0.12166870230929305
+LayerNorm no-affine,width,8595.0,0.09997014257438863
+LayerNorm no-affine,width,10491.0,0.08208611509027008
+LayerNorm no-affine,width,12803.0,0.06738623844242042
+LayerNorm no-affine,width,15623.0,0.055305985452761774
+LayerNorm no-affine,width,19067.0,0.04537233159788201
+LayerNorm no-affine,width,23269.0,0.03721655470862828
+LayerNorm no-affine,width,28399.0,0.03051913699808395
+LayerNorm no-affine,width,34657.0,0.025025376190400905
+LayerNorm no-affine,width,42295.0,0.020517552196121613
+LayerNorm no-affine,width,51619.0,0.01681915889887975
+LayerNorm no-affine,width,62995.0,0.013787042359783896
+LayerNorm no-affine,width,76879.0,0.011300648397003954
+LayerNorm no-affine,width,93825.0,0.00926194676105041
+LayerNorm no-affine,width,114505.0,0.007590779272440784
+LayerNorm no-affine,width,139743.0,0.00622091807493419
+LayerNorm no-affine,width,170543.0,0.0050981319406187
+LayerNorm no-affine,width,208131.0,0.004177896891759403
+LayerNorm no-affine,width,254005.0,0.003423677157902816
+LayerNorm no-affine,width,309989.0,0.0028055760400249596
+LayerNorm no-affine,width,378315.0,0.0022990161346907456
+LayerNorm no-affine,width,461697.0,0.0018839130722678732
+LayerNorm no-affine,width,563459.0,0.0015437390577073273
+LayerNorm no-affine,width,687651.0,0.001264978457079735
+LayerNorm no-affine,width,839215.0,0.0010365500060878219
+LayerNorm no-affine,width,1024185.0,0.0008493665517885773
+LayerNorm no-affine,width,1249925.0,0.0006959817658600542
+LayerNorm no-affine,width,1525419.0,0.0005702948181607326
+LayerNorm no-affine,width,1861635.0,0.0004673040893141689
+LayerNorm no-affine,width,2271955.0,0.0003829119597256181
+LayerNorm no-affine,width,2772713.0,0.00031375991403237435
+LayerNorm no-affine,width,3383843.0,0.0002570959403289663
+LayerNorm no-affine,width,4129671.0,0.00021066503867039899
+LayerNorm no-affine,width,5039887.0,0.00017261922744005176
+LayerNorm no-affine,width,6150723.0,0.0001414443081575456
+LayerNorm no-affine,width,7506395.0,0.00011589951126111941
+LayerNorm no-affine,width,9160869.0,9.496803929920361e-05
+LayerNorm no-affine,width,11180003.0,7.781676044693597e-05
+LayerNorm no-affine,width,13644173.0,6.376297995736024e-05
+LayerNorm no-affine,width,16651467.0,5.224731072317468e-05
+LayerNorm no-affine,width,20321593.0,4.281137739070573e-05
+LayerNorm no-affine,width,24800649.0,3.507957474013779e-05
+LayerNorm no-affine,width,30266927.0,2.8744143824255275e-05
+LayerNorm no-affine,width,36938019.0,2.3552899850898257e-05
+LayerNorm no-affine,width,45079479.0,1.9299200873845734e-05
+LayerNorm no-affine,width,55015385.0,1.5813727307190106e-05
+LayerNorm no-affine,width,67141253.0,1.2957735593843722e-05
+LayerNorm no-affine,width,81939767.0,1.0617541246205064e-05
+LayerNorm no-affine,width,100000001.0,8.699990539540181e-06
+RMSNorm with gain,magnitude,1.0,2.0
+LayerNorm with affine,magnitude,1.0,2.0
+RMSNorm with gain,magnitude,1.1985376615762622,2.0
+LayerNorm with affine,magnitude,1.1985376615762622,2.0
+RMSNorm with gain,magnitude,1.4364925262166948,2.0
+LayerNorm with affine,magnitude,1.4364925262166948,2.0
+RMSNorm with gain,magnitude,1.7216903932435348,2.0
+LayerNorm with affine,magnitude,1.7216903932435348,2.0
+RMSNorm with gain,magnitude,2.0635107778764215,2.0
+LayerNorm with affine,magnitude,2.0635107778764215,2.0
+RMSNorm with gain,magnitude,2.4731953823534196,2.0
+LayerNorm with affine,magnitude,2.4731953823534196,2.0
+RMSNorm with gain,magnitude,2.964217810187077,2.0
+LayerNorm with affine,magnitude,2.964217810187077,2.0
+RMSNorm with gain,magnitude,3.5527266826243284,2.0
+LayerNorm with affine,magnitude,3.5527266826243284,2.0
+RMSNorm with gain,magnitude,4.258076730412154,2.0
+LayerNorm with affine,magnitude,4.258076730412154,2.0
+RMSNorm with gain,magnitude,5.103465327280478,2.0
+LayerNorm with affine,magnitude,5.103465327280478,2.0
+RMSNorm with gain,magnitude,6.116695399294278,2.0
+LayerNorm with affine,magnitude,6.116695399294278,2.0
+RMSNorm with gain,magnitude,7.331089800444445,2.0
+LayerNorm with affine,magnitude,7.331089800444445,2.0
+RMSNorm with gain,magnitude,8.786587226230273,2.0
+LayerNorm with affine,magnitude,8.786587226230273,2.0
+RMSNorm with gain,magnitude,10.531055707361888,2.0
+LayerNorm with affine,magnitude,10.531055707361888,2.0
+RMSNorm with gain,magnitude,12.621866881430865,2.0
+LayerNorm with affine,magnitude,12.621866881430865,2.0
+RMSNorm with gain,magnitude,15.127782816797017,2.0
+LayerNorm with affine,magnitude,15.127782816797017,2.0
+RMSNorm with gain,magnitude,18.131217442077457,1.9931692029323624
+LayerNorm with affine,magnitude,18.131217442077457,1.5889098414651244
+RMSNorm with gain,magnitude,21.73094695455825,1.495217858925555
+LayerNorm with affine,magnitude,21.73094695455825,1.1742426094947405
+RMSNorm with gain,magnitude,26.04535834675404,1.1011566211799515
+LayerNorm with affine,magnitude,26.04535834675404,0.8544710261320976
+RMSNorm with gain,magnitude,31.216342887834365,0.7990972176253148
+LayerNorm with affine,magnitude,31.216342887834365,0.6143631579641475
+RMSNorm with gain,magnitude,37.41396260774778,0.5733535837534145
+LayerNorm with affine,magnitude,37.41396260774778,0.4377482230764471
+RMSNorm with gain,magnitude,44.84204325419176,0.4078961094336879
+LayerNorm with affine,magnitude,44.84204325419176,0.30983204316387614
+RMSNorm with gain,magnitude,53.744877662180585,0.28837738525384005
+LayerNorm with affine,magnitude,53.744877662180585,0.21823589170505464
+RMSNorm with gain,magnitude,64.4152599949322,0.2029589400154883
+LayerNorm with affine,magnitude,64.4152599949322,0.15318597470423256
+RMSNorm with gain,magnitude,77.20411508415299,0.14238017536472114
+LayerNorm with affine,magnitude,77.20411508415299,0.10726072021805777
+RMSNorm with gain,magnitude,92.53203955702534,0.09965365463640019
+LayerNorm with affine,magnitude,92.53203955702534,0.07497315427001361
+RMSNorm with gain,magnitude,100.0,0.08547793815693616
+LayerNorm with affine,magnitude,100.0,0.06427979970861486
+RMSNorm with gain,magnitude,110.90313431155938,0.06963585998631494
+LayerNorm with affine,magnitude,110.90313431155938,0.052340601473211734
+RMSNorm with gain,magnitude,132.9215832592545,0.048604657489390135
+LayerNorm with affine,magnitude,132.9215832592545,0.036508880735688365
+RMSNorm with gain,magnitude,159.31152357256133,0.03389815795884843
+LayerNorm with affine,magnitude,159.31152357256133,0.025450556463265883
+RMSNorm with gain,magnitude,190.9408609248092,0.02362826381511951
+LayerNorm with affine,magnitude,190.9408609248092,0.017734285037354525
+RMSNorm with gain,magnitude,228.8498129521791,0.016463348072942807
+LayerNorm with affine,magnitude,228.8498129521791,0.012353864322314223
+RMSNorm with gain,magnitude,274.2851196678697,0.011467964544971565
+LayerNorm with affine,magnitude,274.2851196678697,0.008604056018151951
+RMSNorm with gain,magnitude,328.7410459318938,0.007986787539000062
+LayerNorm with affine,magnitude,328.7410459318938,0.005991585786503606
+RMSNorm with gain,magnitude,394.0085244553465,0.005561609635169162
+LayerNorm with affine,magnitude,394.0085244553465,0.0041719322114275315
+RMSNorm with gain,magnitude,472.2340555418245,0.003872477220303594
+LayerNorm with affine,magnitude,472.2340555418245,0.002904709395295413
+RMSNorm with gain,magnitude,565.990300645773,0.0026961830778144957
+LayerNorm with affine,magnitude,565.990300645773,0.0020223076881880075
+RMSNorm with gain,magnitude,678.3606914108303,0.001877113280709608
+LayerNorm with affine,magnitude,678.3606914108303,0.001407917544911541
+RMSNorm with gain,magnitude,813.0408367887928,0.0013068269297917823
+LayerNorm with affine,magnitude,813.0408367887928,0.0009801602241914509
+RMSNorm with gain,magnitude,974.4600632908472,0.0009097797402599639
+LayerNorm with affine,magnitude,974.4600632908472,0.0006823542045157893
+RMSNorm with gain,magnitude,1000.0,0.0008639066991964484
+LayerNorm with affine,magnitude,1000.0,0.000647947516721814
+RMSNorm with gain,magnitude,1167.9270855560683,0.0006333560127487203
+LayerNorm with affine,magnitude,1167.9270855560683,0.0004750264113191349
+RMSNorm with gain,magnitude,1399.804598013949,0.0004409151023185842
+LayerNorm with affine,magnitude,1399.804598013949,0.000330690883147966
+RMSNorm with gain,magnitude,1677.7185295673398,0.0003069438081642062
+LayerNorm with affine,magnitude,1677.7185295673398,0.000230210064279035
+RMSNorm with gain,magnitude,2010.8088432108043,0.00021367837359420605
+LayerNorm with affine,magnitude,2010.8088432108043,0.00016025985031653533
+RMSNorm with gain,magnitude,2410.030128818746,0.00014875128406188765
+LayerNorm with affine,magnitude,2410.030128818746,0.00011156398164580139
+RMSNorm with gain,magnitude,2888.5118749227577,0.0001035523135612948
+LayerNorm with affine,magnitude,2888.5118749227577,7.766448648993673e-05
+RMSNorm with gain,magnitude,3461.990268005186,7.208719778084571e-05
+LayerNorm with affine,magnitude,3461.990268005186,5.406552013020871e-05
+RMSNorm with gain,magnitude,4149.325720214712,5.0182923923003386e-05
+LayerNorm with affine,magnitude,4149.325720214712,3.763725196570533e-05
+RMSNorm with gain,magnitude,4973.123145824381,3.4934410489739776e-05
+LayerNorm with affine,magnitude,4973.123145824381,2.6200836471090838e-05
+RMSNorm with gain,magnitude,5960.475385927138,2.4319275041762012e-05
+LayerNorm with affine,magnitude,5960.475385927138,1.823947014578664e-05
+RMSNorm with gain,magnitude,7143.85423093198,1.6929637338236603e-05
+LayerNorm with affine,magnitude,7143.85423093198,1.269723472141493e-05
+RMSNorm with gain,magnitude,8562.178344582902,1.1785406407227583e-05
+LayerNorm with affine,magnitude,8562.178344582902,8.839058063259131e-06
+RMSNorm with gain,magnitude,10000.0,8.639990669578879e-06
+LayerNorm with affine,magnitude,10000.0,6.479994750563378e-06
+RMSNorm with gain,magnitude,10262.093211115312,8.204297252234483e-06
+LayerNorm with affine,magnitude,10262.093211115312,6.153224516580735e-06
+RMSNorm with gain,magnitude,12299.505200127782,5.7113417994969495e-06
+LayerNorm with affine,magnitude,12299.505200127782,4.28350711523251e-06
+RMSNorm with gain,magnitude,14741.420201106226,3.975894712127115e-06
+LayerNorm with affine,magnitude,14741.420201106226,2.9819214031334695e-06
+RMSNorm with gain,magnitude,17668.147296146926,2.767780019397037e-06
+LayerNorm with affine,magnitude,17668.147296146926,2.0758351944039077e-06
+RMSNorm with gain,magnitude,21175.939944708894,1.9267627635599638e-06
+LayerNorm with affine,magnitude,21175.939944708894,1.445072159711458e-06
+RMSNorm with gain,magnitude,25380.16154301076,1.3412968531412162e-06
+LayerNorm with affine,magnitude,25380.16154301076,1.0059726829325655e-06
+RMSNorm with gain,magnitude,30419.079466187894,9.337305240109117e-07
+LayerNorm with affine,magnitude,30419.079466187894,7.002979138803767e-07
+RMSNorm with gain,magnitude,36458.41237070732,6.500072498027976e-07
+LayerNorm with affine,magnitude,36458.41237070732,4.8750544756615e-07
+RMSNorm with gain,magnitude,43696.780307570625,4.5249610103326177e-07
+LayerNorm with affine,magnitude,43696.780307570625,3.3937208065992763e-07
+RMSNorm with gain,magnitude,52372.23688824735,3.1500067088074957e-07
+LayerNorm with affine,magnitude,52372.23688824735,2.3625050538100822e-07
+RMSNorm with gain,magnitude,62770.09833155804,2.1928459048581317e-07
+LayerNorm with affine,magnitude,62770.09833155804,1.644634437525383e-07
+RMSNorm with gain,magnitude,75232.3268712176,1.5265279174059287e-07
+LayerNorm with affine,magnitude,75232.3268712176,1.1448959291726624e-07
+RMSNorm with gain,magnitude,90168.77712317013,1.0626772350974534e-07
+LayerNorm with affine,magnitude,90168.77712317013,7.970079174413058e-08
+RMSNorm with gain,magnitude,100000.0,8.639999826698386e-08
+LayerNorm with affine,magnitude,100000.0,6.480000003250552e-08
+RMSNorm with gain,magnitude,108070.67528039547,7.397722079360847e-08
+LayerNorm with affine,magnitude,108070.67528039547,5.548291426293872e-08
+RMSNorm with gain,magnitude,129526.77443553274,5.149850679231349e-08
+LayerNorm with affine,magnitude,129526.77443553274,3.86238792060567e-08
+RMSNorm with gain,magnitude,155242.7173434794,3.58501743846773e-08
+LayerNorm with affine,magnitude,155242.7173434794,2.6887629900329557e-08
+RMSNorm with gain,magnitude,186064.2434215984,2.495674067404252e-08
+LayerNorm with affine,magnitude,186064.2434215984,1.871755550553189e-08
+RMSNorm with gain,magnitude,223005.00321347895,1.737338806151456e-08
+LayerNorm with affine,magnitude,223005.00321347895,1.303004104613592e-08
+RMSNorm with gain,magnitude,267279.8950712899,1.209431133020189e-08
+LayerNorm with affine,magnitude,267279.8950712899,9.070733497651418e-09
+RMSNorm with gain,magnitude,320345.0204250925,8.41933278650231e-09
+LayerNorm with affine,magnitude,320345.0204250925,6.3145009221443615e-09
+RMSNorm with gain,magnitude,383945.57167789026,5.861034324539105e-09
+LayerNorm with affine,magnitude,383945.57167789026,4.395776187493539e-09
+RMSNorm with gain,magnitude,460173.2276513797,4.080103366277399e-09
+LayerNorm with affine,magnitude,460173.2276513797,3.06007486017279e-09
+RMSNorm with gain,magnitude,551534.9441892855,2.840321755570585e-09
+LayerNorm with affine,magnitude,551534.9441892855,2.1302390962318896e-09
+RMSNorm with gain,magnitude,661035.4022862205,1.9772610215795794e-09
+LayerNorm with affine,magnitude,661035.4022862205,1.482947098452314e-09
+RMSNorm with gain,magnitude,792275.8252752504,1.3764509532165903e-09
+LayerNorm with affine,magnitude,792275.8252752504,1.0323368826448132e-09
+RMSNorm with gain,magnitude,949572.4149488017,9.582024063092831e-10
+LayerNorm with affine,magnitude,949572.4149488017,7.186518047319623e-10
+RMSNorm with gain,magnitude,1138098.301710061,6.670450858337063e-10
+LayerNorm with affine,magnitude,1138098.301710061,5.002824821076501e-10
+RMSNorm with gain,magnitude,1364053.6771754916,4.6435566503078007e-10
+LayerNorm with affine,magnitude,1364053.6771754916,3.482654165054555e-10
+RMSNorm with gain,magnitude,1634869.7045064152,3.232560885635394e-10
+LayerNorm with affine,magnitude,1634869.7045064152,2.42440734155025e-10
+RMSNorm with gain,magnitude,1959452.9126209936,2.2503066077206313e-10
+LayerNorm with affine,magnitude,1959452.9126209936,1.687734396682572e-10
+RMSNorm with gain,magnitude,2348478.111861566,1.566533569530293e-10
+LayerNorm with affine,magnitude,2348478.111861566,1.1749001771477197e-10
+RMSNorm with gain,magnitude,2814739.4644535966,1.0905409908446018e-10
+LayerNorm with affine,magnitude,2814739.4644535966,8.178702159966633e-11
+RMSNorm with gain,magnitude,3373571.255672634,7.59143858886091e-11
+LayerNorm with affine,magnitude,3373571.255672634,5.693578941645683e-11
+RMSNorm with gain,magnitude,4043352.203934773,5.284839232899685e-11
+LayerNorm with affine,magnitude,4043352.203934773,3.963407380069839e-11
+RMSNorm with gain,magnitude,4846109.895433208,3.679012650081859e-11
+LayerNorm with affine,magnitude,4846109.895433208,2.759037442956469e-11
+RMSNorm with gain,magnitude,5808245.221814102,2.561151291047281e-11
+LayerNorm with affine,magnitude,5808245.221814102,1.9207746504434908e-11
+RMSNorm with gain,magnitude,6961400.646014571,1.7827517240220914e-11
+LayerNorm with affine,magnitude,6961400.646014571,1.3370637930165685e-11
+RMSNorm with gain,magnitude,8343500.851569784,1.241140523688955e-11
+LayerNorm with affine,magnitude,8343500.851569784,9.306333481617912e-12
+RMSNorm with gain,magnitude,10000000.0,8.638423310003418e-12
+LayerNorm with affine,magnitude,10000000.0,6.480149750132114e-12
